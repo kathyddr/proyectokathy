@@ -1,11 +1,8 @@
-
-
  /*Reseteo CSS y selector global*/
  * {
   margin: 0%;
   padding: 0%;
 }
-
 
 * {
 box-sizing: border-box;
@@ -58,4 +55,5 @@ width: 100%;
  -ms-flex: 100%;
  flex: 100%;
  max-width: 100%;
+}
 }
